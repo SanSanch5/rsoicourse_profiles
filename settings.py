@@ -1,6 +1,6 @@
 import os
 
-DEBUG_MODE = True
+DEBUG_MODE = False
 PORT = 5002
 
 BACKEND_PATH = os.path.dirname(os.path.abspath(__file__))
